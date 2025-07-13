@@ -9,6 +9,6 @@ TheMatrix app is inspired by the movie The Matrix obviously. This app only conta
      <th>The Matrix Rain Effect</th>
   </tr>
     <tr>
-      <td><img src="https://github.com/JahangirJadi/TheMatrix/blob/main/gif/matrix_animation.gif" width="250px"</td>
+      <td><img src="https://github.com/JahangirJadi/TheMatrix/blob/main/gif/matrix_animation.gif" width="250px" height="480px" </td>
     </tr>
 </table>
